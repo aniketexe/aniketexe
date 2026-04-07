@@ -1,7 +1,7 @@
 # Hi, I'm Aniket
 - Electronics engineering student building full‑stack projects with Java, Python, JavaScript, HTML/CSS, MySQL, and MongoDB.
 
-- Developed small but practical tools such as a Node.js/Express flight‑data analyzer, Python‑SQL integrations, and a local JS server for device‑to‑device messaging.
+- Developed small but practical tools such as a Node.js/Express flight‑data analyzer and a local JS server for device‑to‑device messaging.
 
 - Exploring ESP32‑based electronics and embedded systems, linking hardware ideas with backend logic and networking.
 
