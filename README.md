@@ -1,13 +1,13 @@
 # Hi, I'm Aniket
-Electronics engineering student building full‑stack projects with Java, Python, JavaScript, HTML/CSS, MySQL, and MongoDB.
+- Electronics engineering student building full‑stack projects with Java, Python, JavaScript, HTML/CSS, MySQL, and MongoDB.
 
-Developed small but practical tools such as a Node.js/Express flight‑data analyzer, Python‑SQL integrations, and a local JS server for device‑to‑device messaging.
+- Developed small but practical tools such as a Node.js/Express flight‑data analyzer, Python‑SQL integrations, and a local JS server for device‑to‑device messaging.
 
-Exploring ESP32‑based electronics and embedded systems, linking hardware ideas with backend logic and networking.
+- Exploring ESP32‑based electronics and embedded systems, linking hardware ideas with backend logic and networking.
 
-Experimenting with AI‑integrated tools and local LLM workflows, especially through APIs and custom dashboards.
+- Experimenting with AI‑integrated tools and local LLM workflows, especially through APIs and custom dashboards.
 
-Interested in self‑hosted infra: remote computing, NAS/personal cloud setups, and homelab‑style servers and reverse proxies.
+- Interested in self‑hosted infra: remote computing, NAS/personal cloud setups, and homelab‑style servers and reverse proxies.
 
 
 ## 🌐 Socials:
